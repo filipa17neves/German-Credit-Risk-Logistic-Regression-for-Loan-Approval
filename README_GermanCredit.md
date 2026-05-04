@@ -3,7 +3,6 @@
 A logistic regression analysis applied to the **German Credit dataset** to support bank managers in making data-driven loan approval decisions, minimising both financial loss and business risk.
 
 **Author:** Filipa Neves
-**Institution:** Instituto Superior de Engenharia do Porto (ISEP)  
 **Course:** Statistical Analysis of Data (ESADA)
 
 ---
@@ -130,17 +129,15 @@ jupyter notebook German_Credit_Risk_Analysis.ipynb
 
 ```
 ├── German_Credit_Risk_Analysis.ipynb   # Main notebook
-├── german_credit.csv                   # Dataset
+├── german_credit copy.csv              # Dataset
 └── README.md                           # This file
 ```
 
 ---
 
-## Authors
+## Author
 
-**Filipa Sousa Neves** — 1211249  
-**Diana Fernandes** — 1211231  
-**Inês Rocha**  
+**Filipa Sousa Neves** — 1211249   
 
 Master's in Industrial Engineering and Management  
 Instituto Superior de Engenharia do Porto (ISEP)  
