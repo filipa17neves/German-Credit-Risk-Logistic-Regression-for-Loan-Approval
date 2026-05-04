@@ -136,7 +136,7 @@ jupyter notebook German_Credit_Risk_Analysis.ipynb
 
 ## Author
 
-**Filipa Sousa Neves** — 1211249   
+**Filipa Sousa Neves** 
 
 Master's in Industrial Engineering and Management  
 Instituto Superior de Engenharia do Porto (ISEP)  
