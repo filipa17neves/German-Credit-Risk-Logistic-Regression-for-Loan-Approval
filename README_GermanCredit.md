@@ -3,7 +3,6 @@
 A logistic regression analysis applied to the **German Credit dataset** to support bank managers in making data-driven loan approval decisions, minimising both financial loss and business risk.
 
 **Author:** Filipa Neves
-**Course:** Statistical Analysis of Data (ESADA)
 
 ---
 
