@@ -2,7 +2,7 @@
 
 A logistic regression analysis applied to the **German Credit dataset** to support bank managers in making data-driven loan approval decisions, minimising both financial loss and business risk.
 
-**Authors:** Filipa Neves,  Inês Rocha, Diana Fernandes
+**Authors:** Filipa Neves,  Inês Rocha, Diana Fernandes /
 **Institution:** Instituto Superior de Engenharia do Porto (ISEP)  
 **Course:** Statistical Analysis of Data (ESADA)
 
